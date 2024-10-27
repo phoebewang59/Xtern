@@ -4,4 +4,4 @@
 
 [Data Science Project](https://github.com/phoebewang59/Xtern/blob/main/Data_Science_Project.ipynb)
 
-[Dataset] (https://github.com/phoebewang59/Xtern/blob/main/2025-VeloCityX-Expanded-Fan-Engagement-Data.csv)
+[Dataset](https://github.com/phoebewang59/Xtern/blob/main/2025-VeloCityX-Expanded-Fan-Engagement-Data.csv)
