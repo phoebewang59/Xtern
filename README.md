@@ -1,6 +1,6 @@
 # Xtern
 
-[Data Science Project Prompt](https://github.com/phoebewang59/Xtern/blob/main/Data%20Science%20Work%20Prompt.pdf)
+[Project Prompt](https://github.com/phoebewang59/Xtern/blob/main/Data%20Science%20Work%20Prompt.pdf)
 
 [Data Science Project](https://github.com/phoebewang59/Xtern/blob/main/Data_Science_Project.ipynb)
 
